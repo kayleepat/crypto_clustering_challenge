@@ -1,4 +1,4 @@
-# crypto_clustering_challenge
+# Crypto Clustering
 
 This is an exploration of cryptocurrency prices with unsupervised learning.
 
